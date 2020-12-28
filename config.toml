@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://royhuang.netlify.app/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
@@ -35,7 +35,7 @@ alt = "github icon"
 blank = true
 icon = "/icons/github.svg"
 name = "github"
-url = "https://github.com/"
+url = "https://github.com/royh02"
 
 [[params.social]]
 alt = "medium icon"
