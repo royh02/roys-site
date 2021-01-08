@@ -25,10 +25,12 @@ hero_media = "/img/paddleboarding.png"
 
 +++
 
+![](img/pfp.png)
+
 # :wave: Hi, I'm **Roy Huang**! :wave:
 ## :maple_leaf: Vancouver, Canada :maple_leaf:
 ------
 
 I'm a current freshman studying **Computer Science** at **UC Berkeley** \
-I enjoy hiking, paddleboarding, and hanging out on r/buildapc
+I enjoy hiking, paddleboarding, and hanging out on [r/buildapc](https://www.reddit.com/r/buildapc/)
 

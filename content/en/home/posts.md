@@ -8,7 +8,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 50  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Projects"
 subtitle = "Read about my latest projects"
 
 [content]
@@ -19,7 +19,7 @@ subtitle = "Read about my latest projects"
 	count = 5
 
 	[content.filters]
-		tag = "recipe"
+		tag = "project"
 		category = ""
 		publication_type = ""
 		exclude_featured = false

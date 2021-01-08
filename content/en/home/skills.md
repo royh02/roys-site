@@ -6,29 +6,34 @@ weight = 20  # Order that this section will appear.
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
 
-title = "Skills"
-subtitle = "I am really good at the following technical skills"
+title = "Languages"
+subtitle = "What I know"
 
 [[bar]]
-	icon = "/icons/precision.svg"
+	icon = "/icons/Python-logo.svg"
 	name = "Python"
-	percent = "95%"
+	percent = "80%"
 
 [[bar]]
-	icon = "/icons/heat.svg"
+	icon = "/icons/java.svg"
 	name = "Java"
-	percent = "90%"
+	percent = "70%"
 
 
 [[bar]]
-	icon = "/icons/chicken.svg"
-	name = "Quality of Food"
-	percent = "87%"
+	icon = "/icons/javascript.svg"
+	name = "JavaScript"
+	percent = "60%"
 
 
 [[bar]]
-	icon = "/icons/presentation.svg"
-	name = "Presentation"
-	percent = "75%"
+	icon = "/icons/html.svg"
+	name = "HTML/CSS"
+	percent = "50%"
+
+[[bar]]
+	icon = "/icons/cpp.svg"
+	name = "C++"
+	percent = "25%"
 
 +++
