@@ -55,5 +55,5 @@ required = true
 
 +++
 
-Need help to open a fast-food ?
+Interested in what I do or have questions?
 Let’s talk about it !
